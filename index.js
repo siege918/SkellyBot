@@ -1,0 +1,1 @@
+require('siegebot-client').activate('skelly');

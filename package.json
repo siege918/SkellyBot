@@ -1,0 +1,23 @@
+{
+  "name": "skellybot",
+  "version": "1.0.0",
+  "description": "\"# SkellyBot\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siege918/SkellyBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siege918/SkellyBot/issues"
+  },
+  "homepage": "https://github.com/siege918/SkellyBot#readme",
+  "dependencies": {
+    "siegebot-client": "github:siege918/siegebot-client#v1.2",
+    "siegebot-giphy": "github:siege918/siegebot-giphy"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "SkellyBot",
+    "tokenEnv": "SKELLYBOTTOKEN",
+    "prefix": ".",
+    "commands": {
+        "giphy": "siegebot-giphy"
+    },
+    "triggers":
+    {
+        "gif": {
+            "command": "giphy",
+            "subcommand": "giphy",
+            "config": {
+                "apikeyEnv": "SKELLYBOTGIPHY"
+            },
+            "description": "Search for a gif!```Example:\n.gif skeleton```"
+        }
+    }
+}
